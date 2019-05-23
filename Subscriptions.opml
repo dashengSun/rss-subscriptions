@@ -4,9 +4,16 @@
 		<title>Subscriptions - RSS</title>
 	</head>
 	<body>
+		<outline htmlUrl="https://decentralized.blog/" title="Catching the Blockchain Train" xmlUrl="https://decentralized.blog/feeds/all.atom.xml" type="rss" text="Catching the Blockchain Train"/>
+		<outline htmlUrl="https://www.hpe.com/us/en/insights.html" title="enterprise.nxt" xmlUrl="https://www.hpe.com/us/en/insights/rss.xml" type="rss" text="enterprise.nxt"/>
+		<outline htmlUrl="https://gpestana.com/" title="Home on gpestana" xmlUrl="https://www.gpestana.com/index.xml" type="rss" text="Home on gpestana"/>
 		<outline htmlUrl="http://wuchong.me/" title="Jark's Blog" xmlUrl="http://wuchong.me/atom.xml" type="rss" text="Jark's Blog"/>
+		<outline htmlUrl="http://jvns.ca" title="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" type="rss" text="Julia Evans"/>
+		<outline htmlUrl="http://macshuo.com" title="MacTalk-池建强的随想录" xmlUrl="http://macshuo.com/?feed=rss2" type="rss" text="MacTalk-池建强的随想录"/>
+		<outline htmlUrl="https://michalzalecki.com" title="Michal Zalecki - Personal Blog on Software Development" xmlUrl="https://michalzalecki.com/rss.xml" type="rss" text="Michal Zalecki - Personal Blog on Software Development"/>
 		<outline htmlUrl="http://teahour.fm" title="Teahour.fm" xmlUrl="http://teahour.fm/feed.xml" type="rss" text="Teahour.fm"/>
 		<outline htmlUrl="https://xinle.co" title="Tolecen" xmlUrl="https://xinle.co/feed/" type="rss" text="Tolecen"/>
+		<outline htmlUrl="https://waitbutwhy.com" title="Wait But Why" xmlUrl="https://waitbutwhy.com/feed" type="rss" text="Wait But Why"/>
 		<outline htmlUrl="https://whisperd.tech/" title="Whisperd" xmlUrl="https://whisperd.tech/index.xml" type="rss" text="Whisperd"/>
 	</body>
 </opml>
